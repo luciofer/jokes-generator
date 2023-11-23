@@ -1,6 +1,6 @@
 # Dad Jokes Generator
 
-This project uses the API Ninjas
+This project uses an endpoint from the API Ninjas to fetch dad jokes.
 
 > 
 
@@ -12,11 +12,11 @@ This project uses the API Ninjas
 - API Ninjas
 - Git and Github
 
-![preview](./src/images/guess.PNG)
+![preview](./src/images/joke1.PNG)
 
 > 
 
-![preview](./src/images/guess2.PNG)
+![preview](./src/images/joke2.PNG)
 
 
 ## ✉ Contact
