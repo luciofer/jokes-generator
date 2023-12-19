@@ -2,6 +2,8 @@
 
 This project uses an endpoint from the API Ninjas to fetch dad jokes.
 
+[Click here to play](https://luciofer.github.io/jokes-generator/)
+
 > 
 
 ## 👩🏾‍💻 Technologies
